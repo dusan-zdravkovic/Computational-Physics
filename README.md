@@ -1,42 +1,23 @@
 # Computational-Physics
 
-This repository showcases my projects and skills developed during a course focused on scientific computing in physics. Some of my scripts, along with reports (not included here), are showcased to demonstrate my foundation in computational methods, which are highly applicable to data science.
+This repository showcases my projects and skills from a course in scientific computing in physics, demonstrating foundational computational methods applicable to data science.
 
 ## Skills & Techniques
 
-### Computational Methods
-Proficiency in solving complex problems using computational techniques in physics, directly transferable to data analysis and modeling in Data Science.
+- **Computational Methods**: Proficient in solving complex problems using computational physics techniques, transferable to data analysis and modeling in Data Science.
+- **Function Analysis & Algorithm Development**: Experienced in analyzing functions and developing algorithms, crucial for data processing in Data Science.
+- **ODEs & PDEs**: Skilled in solving Ordinary and Partial Differential Equations, important for dynamic systems modeling in Data Science.
+- **Eigenvalue Problems**: Understanding of eigenvalues and eigenvectors, vital for PCA and dimensionality reduction in Data Science.
+- **Non-Linear Equations**: Capable of solving non-linear equations, applicable to various Data Science algorithms.
+- **Monte Carlo Techniques**: Familiar with stochastic methods for probabilistic modeling and simulations in Data Science.
+- **Scientific Computing "Survival Skills"**:
+  - *Command Line Programming*: Competent in command line navigation and utilization for data manipulation.
+  - *Debugging*: Expert in code debugging, crucial for accurate data models.
+  - *Solution Visualization*: Adept at visualizing data and computational solutions, essential for data interpretation.
+  - *Computational Efficiency and Accuracy*: Knowledgeable in code optimization for efficiency and accuracy in large datasets.
 
-### Function Analysis & Algorithm Development
-Experience in analyzing functions and developing algorithms, critical for understanding and processing data in Data Science.
+## Tools Used 
+- Python (NumPy, SciPy, Matplotlib)
 
-### Ordinary Differential Equations (ODEs) & Partial Differential Equations (PDEs)
-Ability to solve ODEs and PDEs, skills valuable for modeling dynamic systems in Data Science.
-
-### Eigenvalue Problems
-Understanding of eigenvalues and eigenvectors, essential for dimensionality reduction techniques like PCA in Data Science.
-
-### Non-Linear Equations
-Experience in solving non-linear equations, useful for various Data Science algorithms.
-
-### Monte Carlo Techniques
-Familiarity with stochastic methods, important for probabilistic modeling and simulations in Data Science.
-
-### Scientific Computing "Survival Skills"
-
-#### Command Line Programming
-Competence in navigating and utilizing the command line, a fundamental skill for data manipulation and script execution.
-
-#### Debugging
-Expertise in debugging code, essential for ensuring the accuracy of data models.
-
-#### Solution Visualization
-Skilled in visualizing complex data and computational solutions, crucial for data interpretation and presentation in Data Science.
-
-#### Computational Efficiency and Accuracy
-Understanding of how to optimize code for efficiency and accuracy, key for handling large datasets.
-
-## Tools Used
-Python (NumPy, SciPy, Matplotlib)
 
 
